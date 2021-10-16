@@ -1,3 +1,5 @@
 A requirements.txt file that enables someone to quickly run your notebooks
 with minimal configuration. You should also include any other required files such
 as data files and image files.
+
+Need to have requests package installed.
