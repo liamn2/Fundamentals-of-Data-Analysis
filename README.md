@@ -1,2 +1,6 @@
-# Fundamentals-of-Data-Analysis
-Jupyter notebooks on matplotlib and a comparison of CAO points through web-scraping, csv conversion and pandas dataframe work. 
+# Fundamentals-of-Data-Analysis  
+
+Comparison of CAO points per year.  
+Data web-scraped from CAO website using Flask API.  
+Analysis performed using Pandas library. 
+All code performed in a Jupyter notebook. 
