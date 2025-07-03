@@ -1,1 +1,2 @@
-All notebooks are run through Jupyter. All images are URL's.
+All notebooks are run through Jupyter.  
+All images URL's are provided.
